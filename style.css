@@ -1,0 +1,15 @@
+body {
+  background-color: #232323;
+  color: white;
+}
+.container{
+  max-width: 600px;
+  margin: 0 auto;
+}
+.square{
+  width: 30%;
+  padding-bottom: 30%;
+  background-color: purple;
+  float: left;
+  margin: 1.66%;
+}
